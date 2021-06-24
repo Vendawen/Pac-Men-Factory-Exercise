@@ -6,5 +6,5 @@ Starter code was provided by MIT xPro,And I contributed with make Pacman bounce 
 ### Roadmap of future improvements
 Add on gohst chase my Pac-Men
 
-Make Pac-Men Come out with Random Color
+Make Pac-Men with different color and come out randomly 
 
